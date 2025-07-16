@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/JavaThread-d/UDP/refs/heads/main/relays.txt
+http://45.131.109.210:5000/report
